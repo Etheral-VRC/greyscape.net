@@ -1,0 +1,5 @@
+VRChat Game Software Restricted License v1.0
+
+This repository (repository "greyscape.net" by "Etheral-VRC") and its contents, hereinafter referred to as "Materials," are the property of the copyright holder (the "Owner"). Usage of these Materials is restricted to the VRChat game software for the sole purpose of accessing the materials in this repository via "GET" HTTP requests from the VRChat world identified by the world ID "wrld_10b84311-15de-4431-8385-d24d32623699". Any usage, modification, reproduction, distribution, or other forms of exploitation of these Materials outside of the VRChat game software or for purposes other than accessing the materials via "GET" HTTP requests in the specified VRChat world is expressly prohibited without the prior written consent of the Owner.
+
+© 2023 Etheral-VRC
